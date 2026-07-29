@@ -1,1 +1,2 @@
-# coding-project-template
+# e-plantShopping
+A lightweight application to get all your plants!
